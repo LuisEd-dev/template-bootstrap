@@ -1,0 +1,38 @@
+.divslider{
+    width: 100%;
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-image: url("../imgs/bgslider.png");
+}
+body{
+    padding-top: 50px;
+}
+section{
+    padding-top: 45px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+}
+html{
+    scroll-behavior: smooth;
+}
+.foto-servicos{
+    width: 300px;
+}
+.header-padding{
+    padding-bottom: 20px;
+}
+.portfolio-item{
+    background-color: aquamarine;
+}
+.portfolio-item h4{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.row-portfolio{
+    margin-bottom: 10px;
+}
+.row-portfolio:last-child{
+    margin-bottom: 0px;
+}
