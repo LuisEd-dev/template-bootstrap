@@ -54,3 +54,20 @@ footer{
     padding-top: 20px;
     padding-bottom: 20px;;
 }
+.form-login{
+    max-width: 350px;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #343a40;
+}
+h2.login{
+    color: #fff;
+}
+.form-login input{
+    margin-bottom: 10px;
+}
+label.login{
+    color: #fff;
+}
